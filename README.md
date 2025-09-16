@@ -4,7 +4,7 @@ A collection of power bi dashboards
 
 ## Project list
 
-### Sales Analysis
+### Sales Analysis [Click here](https://github.com/gabrielphala/powerbi/blob/main/Sales%20Analysis.pbix)
 
 Dashboards
 * __Summary__
@@ -23,7 +23,7 @@ Dashboards
 
     Analysis of how many supplier support each category
 
-### Sales and Expense Analysis
+### Sales and Expense Analysis [Click here](https://github.com/gabrielphala/powerbi/blob/main/Expense%20and%20Sales%20Analysis.pbix)
 
 * __Summary__
 
